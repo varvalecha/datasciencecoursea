@@ -1,2 +1,0 @@
-# datasciencecoursea
-Assignment Repo
